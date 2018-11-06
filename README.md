@@ -20,7 +20,7 @@
 # brainfuck interpreter
 - C言語で実装.
 - 実行すると、Brainf*ckプログラムのソースコードを標準入力から読み取り、対応するプログラムを実行する.
-# brainfuck complier
+# brainfuck compiler
 - アセンブリで実装予定.
 ## 仕様（目標）
 - powerpc64le-linux-gnu アーキテクチャのOS上で実行できるELFバイナリである.
